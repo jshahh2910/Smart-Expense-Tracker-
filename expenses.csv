@@ -1,0 +1,65 @@
+amount,category,description,date,payment method
+250,Food,Breakfast,05/06/2025,UPI
+1200,Shopping,Tshirt,12/06/2025,Card
+400,Transport,Metro Card,18/06/2025,UPI
+600,Entertainment,Movie,25/06/2025,Cash
+300,Food,Lunch,03/07/2025,UPI
+1500,Shopping,Shoes,10/07/2025,Card
+450,Transport,Cab,16/07/2025,UPI
+800,Entertainment,Bowling,23/07/2025,Card
+350,Food,Dinner,02/08/2025,Cash
+2000,Shopping,Watch,08/08/2025,Card
+500,Transport,Fuel,15/08/2025,UPI
+700,Entertainment,Concert,28/08/2025,Card
+400,Food,Groceries,05/09/2025,UPI
+1800,Shopping,Backpack,12/09/2025,Card
+350,Transport,Bus Pass,19/09/2025,Cash
+900,Entertainment,Games,27/09/2025,UPI
+500,Food,Restaurant,04/10/2025,Card
+2200,Shopping,Headphones,11/10/2025,UPI
+450,Transport,Cab,18/10/2025,Cash
+1000,Entertainment,Theme Park,26/10/2025,Card
+300,Food,Breakfast,03/11/2025,UPI
+2500,Shopping,Keyboard,10/11/2025,Card
+400,Transport,Metro,17/11/2025,UPI
+700,Entertainment,Movie,24/11/2025,Cash
+600,Food,Groceries,02/12/2025,UPI
+3500,Shopping,Monitor,09/12/2025,Card
+500,Transport,Fuel,16/12/2025,UPI
+1200,Entertainment,Holiday Event,28/12/2025,Card
+450,Food,Lunch,05/01/2026,Cash
+2800,Shopping,Chair,12/01/2026,Card
+350,Transport,Bus Pass,19/01/2026,UPI
+900,Entertainment,Movie Night,26/01/2026,Card
+550,Food,Dinner,04/02/2026,UPI
+2000,Shopping,Books,11/02/2026,Card
+450,Transport,Cab,18/02/2026,Cash
+800,Entertainment,Bowling,25/02/2026,UPI
+500,Food,Restaurant,03/03/2026,Card
+2400,Shopping,Tablet Accessories,10/03/2026,UPI
+400,Transport,Metro,17/03/2026,Cash
+1100,Entertainment,Concert,24/03/2026,Card
+1800,Shopping,Clothes,10/04/2026,Card
+450,Transport,Fuel,15/04/2026,Cash
+600,Entertainment,Movie,22/04/2026,UPI
+500,Travel,Weekend Trip,27/04/2026,Card
+120,Food,Breakfast,02/05/2026,UPI
+250,Food,Lunch,03/05/2026,Card
+500,Transport,Cab,05/05/2026,UPI
+1500,Shopping,Tshirt,07/05/2026,Card
+300,Food,Dinner,09/05/2026,Cash
+800,Entertainment,Movie,10/05/2026,UPI
+400,Transport,Metro Pass,12/05/2026,Card
+600,Food,Restaurant,15/05/2026,UPI
+2500,Shopping,Shoes,18/05/2026,Card
+350,Food,Snacks,20/05/2026,Cash
+4500,Travel,Weekend Trip,22/05/2026,UPI
+700,Entertainment,Bowling,24/05/2026,Card
+1000,Food,Groceries,26/05/2026,UPI
+900,Transport,Fuel,27/05/2026,Card
+2000,Shopping,Headphones,29/05/2026,UPI
+300,Food,Breakfast,01/06/2026,UPI
+100,Transport,Metro,02/06/2026,Cash
+150,Food,Coffee,03/06/2026,UPI
+250,Food,Lunch,04/06/2026,Card
+600,Entertainment,Movie,05/06/2026,UPI
